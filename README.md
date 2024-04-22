@@ -1,5 +1,1 @@
-- 👋 Hi, I’m @KonradS6502
-- 👀 I’m interested in audio electronic, physics. 
-- 🌱 I’m currently learning programming on AVR :) 
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me? By email: konrad@segelyn.com
+Blau
